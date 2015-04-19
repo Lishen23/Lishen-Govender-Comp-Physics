@@ -1,0 +1,16 @@
+Q1 Write a python script to make a vector of n evenly spaced numbers between 0 and pi/2. i.e. x[0]=0, x[-1]=pi/2
+
+Q2 Use this vector to integrate cos(x) from 0 to pi/2 for a range # of points using the simple method. include 10,30,100,300,1000 points between 0 and pi/2. How does error scale with # of points?
+
+Q3 Python supports array slicing - x[5:10:2] will take points 5,7,9 from x. x[5::2] will take points 5,7,9… from x. How can I take all odd points from an array? How can I take all even points from an array, but skipping the first and last points?
+
+Q4 Write a python function to integrate this vector using Simpson’s rule. How does errorscale with # of points? How many points did we need to use in part 2 to get same accuracy as 11 points with Simpson’s rule? 
+
+Q5
+
+Q6
+
+Q7
+
+Q8
+
