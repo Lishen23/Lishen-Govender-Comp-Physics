@@ -43,7 +43,7 @@ if __name__=='__main__':
     e1=np.abs(value-
     print 'error on 11 points is ' + repr(value)
     for n in npoints:
-        =np.abs(intcos_simp(n)-1)
+        =np.abs(intcos_simp(n))
         print 'The simpsons error for ' + repr(n) + ' points is ' + repr(e1)
 
 
