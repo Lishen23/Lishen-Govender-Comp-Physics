@@ -1,0 +1,17 @@
+#  Q1 Answer
+
+the assert should fail when boundry conditions are periodic or smooth 
+(which is the case always for this script) assert will NOT fail if boundry 
+conditions are neither smooth nor periodic. I'd guess this was done to 
+confirm that the boundry conditions are periodic/smooth.
+
+# Q2 Answer
+
+When calculating the derivative we do it by approaching the answer from 
+the left and right, the *0.5 factor should be to average out those values (from
+left and from right)
+
+
+#Q3 Answer
+
+...
